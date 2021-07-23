@@ -1,0 +1,2 @@
+setuptools~=57.1.0
+sqlite3worker~=1.1.7
