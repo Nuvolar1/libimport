@@ -1,2 +1,2 @@
-setuptools~=57.1.0
-sqlite3worker~=1.1.7
+mysql-connector-python~=8.0.26
+WooCommerce~=3.0.0
